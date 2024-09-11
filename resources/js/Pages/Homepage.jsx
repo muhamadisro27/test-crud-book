@@ -156,6 +156,11 @@ export default function Homepage({}) {
             width: 100,
         },
         {
+            title: "Slug",
+            dataIndex: "slug",
+            width: 100,
+        },
+        {
             title: "Author",
             dataIndex: "author",
             width: 50,
